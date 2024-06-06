@@ -156,5 +156,5 @@ This will reduce the complexity of vulnerabilities being reported by various too
 
 If you want to learn more about Invinsense, then schedule a demo by [filling this form](https://www.infopercept.com/contact/) and our team will reach out to you shortly.
 
-@AmitK-ICPL
+[@AmitK-ICPL](https://www.linkedin.com/in/amit-shah-132b3010/)
 
