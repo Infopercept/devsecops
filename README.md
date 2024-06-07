@@ -134,7 +134,7 @@ Invinsense DevSecOps addresses all the pain points that we have discussed above.
 
 ### 1) A Platform that consolidates All Code Security Tools in One Place and also Provides Remediation
 
-Firstly, Invinsense consolidated all security tools into one single platform, which streamlined the code security process, meaning organizations will no longer need different vendors to perform various code security processes (SAST, SCA, DAST, IAST, Source Code Review, Software Supply Chain Security, Secrets Management, and SBOM) as everything is now being done from one single platform. 
+Firstly, [Invinsense consolidated all security tools into one single platform](https://www.infopercept.com/invinsense/), which streamlined the code security process, meaning organizations will no longer need different vendors to perform various code security processes (SAST, SCA, DAST, IAST, Source Code Review, Software Supply Chain Security, Secrets Management, and SBOM) as everything is now being done from one single platform. 
 
 This prevents siloing, due to which the application has much better security. 
 
